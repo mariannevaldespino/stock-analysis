@@ -29,4 +29,3 @@ The advantage of refactoring code is the amount of time you save when you run it
 ### 2. How do these pros and cons apply to refactoring the original VBA script?
 
 When I worked on the original code, understood what it did, and got it to run successfully, it was much easier to take a step back and think about how I could improve it. It was not absolutely necessary to refactor the code, and it would be time consuming to do it - but once I did, it ran much faster and made the process much more efficient. Therefore, it was worth it in the long run.
-
